@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import matplotlib.pyplot as plt
+# import pandas as pd
 
 # RAG
 from rag_pipeline import stream_answer
